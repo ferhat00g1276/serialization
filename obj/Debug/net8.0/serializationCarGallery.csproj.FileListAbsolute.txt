@@ -1,0 +1,14 @@
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\bin\Debug\net8.0\serializationCarGallery.exe
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\bin\Debug\net8.0\serializationCarGallery.deps.json
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\bin\Debug\net8.0\serializationCarGallery.runtimeconfig.json
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\bin\Debug\net8.0\serializationCarGallery.dll
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\bin\Debug\net8.0\serializationCarGallery.pdb
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.AssemblyInfoInputs.cache
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.AssemblyInfo.cs
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.csproj.CoreCompileInputs.cache
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.dll
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\refint\serializationCarGallery.dll
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.pdb
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\serializationCarGallery.genruntimeconfig.cache
+C:\Users\Gozel_ct64\source\repos\serializationCarGallery\serializationCarGallery\obj\Debug\net8.0\ref\serializationCarGallery.dll
